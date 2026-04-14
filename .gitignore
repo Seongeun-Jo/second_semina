@@ -1,0 +1,28 @@
+# ── 데이터 (AI Hub 라이선스 - 업로드 금지) ──
+*.wav
+*.zip
+data_extracted/
+eval_data.json
+train_corpus.json
+
+# ── 모델 가중치 (용량 큼) ──
+lora_checkpoints/
+lora_final/
+*.bin
+*.safetensors
+*.pt
+*.pth
+
+# ── 파이썬 ──
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# ── 환경변수 ──
+.env
+*.env
+
+# ── OS ──
+.DS_Store
+Thumbs.db

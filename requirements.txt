@@ -1,0 +1,13 @@
+torch>=2.6.0
+transformers==4.51.3
+peft==0.15.2
+accelerate
+bitsandbytes
+datasets
+openai-whisper
+jiwer
+wandb==0.19.11
+numpy
+pandas
+matplotlib
+tqdm
