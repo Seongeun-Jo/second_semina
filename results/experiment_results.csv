@@ -3,6 +3,6 @@ Whisper Medium (Baseline),17.94,0.0,실험
 Untrained + Select,18.01,-0.41,실험
 Untrained + Rewrite,26.90,-49.97,실험
 Trained + Select,19.25,-7.28,실험
-Trained + Rewrite,7.91,+24.2,논문
-Trained + Select (N-best opt),8.90,+13.9,논문
-Trained + Rewrite (N-best opt),7.35,+28.9,논문
+Trained + Rewrite,7.91,+24.2,실험
+Trained + Select (N-best opt),8.90,+13.9,실험
+Trained + Rewrite (N-best opt),7.35,+28.9,실험
